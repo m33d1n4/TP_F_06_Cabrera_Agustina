@@ -1,0 +1,14 @@
+button{
+    background-color:gold;
+    border: black 1px solid;
+    right: 30px;
+ 
+}
+h1{
+    text-align: center;
+
+}
+h2{
+   margin: 2rem auto;
+   padding-block-start: 70px;
+}
